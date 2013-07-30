@@ -13,3 +13,8 @@ Compiling)   -XDignore.symbol.file
 
 Once, the code gets compiled successfully, you can run it from the command line or the code itself. The main 
 class is RunSim.java. 
+
+
+A reference to the theory behind it is provided in my dissertation 
+
+http://cise.ufl.edu/~makumar/dissertation.pdf
