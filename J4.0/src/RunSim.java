@@ -276,7 +276,7 @@ public  class RunSim implements Constants{
             bpnz=Double.parseDouble(args[0]);
         }
         
-        
+        System.out.println("Writing results  to file:result.csv");
         runSim.runEmbed(bpnz,indir,outdir,resfile);
     }
 
