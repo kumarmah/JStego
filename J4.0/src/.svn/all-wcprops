@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/547/my%20research/steganographyAlgos/J4.2/src
+END
+JPEGFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGFrame.java
+END
+ImageInputStreamImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/ImageInputStreamImpl.java
+END
+test1.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/test1.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/549/my%20research/steganographyAlgos/J4.2/src/Utility.java
+END
+JpegEncoder1.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JpegEncoder1.java
+END
+JPEGEncoder2.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGEncoder2.java
+END
+JPEGComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGComponent.java
+END
+ColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/ColorManager.java
+END
+CombinationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/CombinationGenerator.java
+END
+JPEGImageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGImageReader.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/550/my%20research/steganographyAlgos/J4.2/src/Constants.java
+END
+Embed.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/582/my%20research/steganographyAlgos/J4.2/src/Embed.java
+END
+YCbCr_ColorSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/YCbCr_ColorSpace.java
+END
+RunSim.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/582/my%20research/steganographyAlgos/J4.2/src/RunSim.java
+END
+FileImageInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/FileImageInputStream.java
+END
+ImageInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/ImageInputStream.java
+END
+DataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/DataGenerator.java
+END
+JPEGImageInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGImageInputStream.java
+END
+MyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/MyWrapper.java
+END
+GraphicsSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/GraphicsSymbol.java
+END
+ZigZag.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/ZigZag.java
+END
+Misc.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/Misc.java
+END
+DCT1.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/DCT1.java
+END
+HuffmanTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/HuffmanTable.java
+END
+GetHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/549/my%20research/steganographyAlgos/J4.2/src/GetHistogram.java
+END
+Histogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/Histogram.java
+END
+ImageWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/ImageWatcher.java
+END
+JpegInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JpegInfo.java
+END
+BMPReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/BMPReader.java
+END
+JPEGMarkerFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGMarkerFoundException.java
+END
+JPEGHuffmanTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGHuffmanTable.java
+END
+JPEGException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGException.java
+END
+BlinkMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/BlinkMsg.java
+END
+DESEncrypter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/DESEncrypter.java
+END
+DCT.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/DCT.java
+END
+Extract.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/Extract.java
+END
+JPEGDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGDecoder.java
+END
+BmpWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/BmpWriter.java
+END
+Freckle.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/Freckle.java
+END
+JPEGQTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGQTable.java
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/test.java
+END
+MainFreckle.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/MainFreckle.java
+END
+XYGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/XYGraph.java
+END
+Huffman.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/Huffman.java
+END
+DrawObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/DrawObject.java
+END
+JpegEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JpegEncoder.java
+END
+JPEGImageReaderSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGImageReaderSpi.java
+END
+JPEGMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGMarker.java
+END
+Help.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/Help.java
+END
+JPEGScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/JPEGScan.java
+END
+IIOByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/545/my%20research/steganographyAlgos/J4.2/src/IIOByteBuffer.java
+END
